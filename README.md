@@ -5,19 +5,12 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-
 <p>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JosephBarasa&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p>
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=JosephBarasa&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
+
+
 
 
 
